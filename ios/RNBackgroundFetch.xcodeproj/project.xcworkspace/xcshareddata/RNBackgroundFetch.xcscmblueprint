@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EE77936BA02E2346B4B90F10C14673F60E1054AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EE77936BA02E2346B4B90F10C14673F60E1054AC" : 9223372036854775807,
+    "F70D9AAEFF803176DE483E138C9DB71C5E96A32D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2017363E-E8F1-49EF-A2D4-CA5B8117C6A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EE77936BA02E2346B4B90F10C14673F60E1054AC" : "react-native-background-fetch\/",
+    "F70D9AAEFF803176DE483E138C9DB71C5E96A32D" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RNBackgroundFetch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RNBackgroundFetch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pietgk\/react-native-background-fetch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE77936BA02E2346B4B90F10C14673F60E1054AC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.nowarkrengelink.com:carservice\/carservice_app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F70D9AAEFF803176DE483E138C9DB71C5E96A32D"
+    }
+  ]
+}
